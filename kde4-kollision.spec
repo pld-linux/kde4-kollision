@@ -4,12 +4,12 @@
 
 Summary:	Kollision
 Name:		kde4-%{orgname}
-Version:	4.13.2
+Version:	4.14.3
 Release:	1
 License:	GPL
 Group:		X11/Applications/Games
 Source0:	ftp://ftp.kde.org/pub/kde/%{_state}/%{version}/src/%{orgname}-%{version}.tar.xz
-# Source0-md5:	efd0bd7c82d3fe959ddd7ce8271f9d5f
+# Source0-md5:	b494ec77ce0b3b02e1412fa078cfda7c
 BuildRequires:	automoc4 >= 0.9.88
 BuildRequires:	cmake >= 2.8.0
 BuildRequires:	kde4-kdelibs-devel >= %{version}
